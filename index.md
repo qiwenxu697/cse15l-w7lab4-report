@@ -3,19 +3,20 @@
 Step 4: \
 Keys pressed: `ssh <space> qix007@ieng6-201.ucsd.edu <enter>` \
 First log into **ieng6** using `ssh <space> qix007@ieng6-201.ucsd.edu`. \
-<img width="471" alt="截屏2024-02-24 下午4 08 45" src="https://github.com/qiwenxu697/cse15l-w7lab4-report/assets/147675962/51e3dfed-c4ab-4f80-8ba7-c1f5494f175d">
+<img width="471" alt="截屏2024-02-24 下午4 08 45" src="https://github.com/qiwenxu697/cse15l-w7lab4-report/assets/147675962/51e3dfed-c4ab-4f80-8ba7-c1f5494f175d">\
 
 Step 5: \
 Keys pressed: `git <space> clone <space> <command> v <enter>`\
 Then I clone my fork of the repository from my Github account by copying the SSH clone URLs link git@github.com:qiwenxu697/lab7.git from GitHub. \
-<img width="479" alt="截屏2024-02-24 下午4 09 26" src="https://github.com/qiwenxu697/cse15l-w7lab4-report/assets/147675962/65fe565d-9a0a-4b23-817f-4b1df22e22b8">
+<img width="479" alt="截屏2024-02-24 下午4 09 26" src="https://github.com/qiwenxu697/cse15l-w7lab4-report/assets/147675962/65fe565d-9a0a-4b23-817f-4b1df22e22b8">\
 
 
 Step 6: \
 Keys pressed: `bash test.sh <enter>`\
 I run the test.
 Then I clone my fork of the repository from my Github account by copying the SSH clone URLs link git@github.com:qiwenxu697/lab7.git from GitHub. \
-<img width="481" alt="截屏2024-02-24 下午4 10 24" src="https://github.com/qiwenxu697/cse15l-w7lab4-report/assets/147675962/f5c7e775-e03d-4212-add8-75b7261a095c">
+<img width="481" alt="截屏2024-02-24 下午4 10 24" src="https://github.com/qiwenxu697/cse15l-w7lab4-report/assets/147675962/f5c7e775-e03d-4212-add8-75b7261a095c">\
+
 Step 7: \
 Keys pressed: `vim <space> L<tab> .java <enter>` \
 When I type `L` and `<tab>`.`<tab>` autocompletes commands. Since there are a `ListExamples.java` and a `ListExamplesTests.java`. It autocompletes `ListExamples`. I type '.java <enter>' to open vim mode. \
@@ -28,6 +29,8 @@ I type `j` to move down to the code line that need to fix. I reach the line `ind
 Step 8: \
 Keys pressed: `<up> <enter>` \
 `<up>` can go to the previous command I enter, which is `bash test.sh`.\
+
+
 Step 9: \
 Keys pressed: `git <space> add L <tab> <enter>` \
 Like the previous step, I use `<tab>` to autocomplete commands. Since I change `ListExamples.java`, `<tab>` autocompletes `ListExamples.java`. The `git add` command adds a change.\
