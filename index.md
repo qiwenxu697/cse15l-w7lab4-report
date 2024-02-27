@@ -17,7 +17,8 @@ Then I clone my fork of the repository from my Github account by copying the SSH
 
 ## Step 7: 
 Keys pressed: `vim <space> L<tab> .java <enter>` \
-When I type `L` and `<tab>`.`<tab>` autocompletes commands. Since there are a `ListExamples.java` and a `ListExamplesTests.java`. It autocompletes `ListExamples`. I type '.java <enter>' to open vim mode. \
+When I type `L` and `<tab>`.`<tab>` autocompletes commands. Since there are a `ListExamples.java` and a `ListExamplesTests.java`. It autocompletes `ListExamples`. I type '.java <enter>' to open vim mode.
+
 <img width="480" alt="截屏2024-02-24 下午4 15 51" src="https://github.com/qiwenxu697/cse15l-w7lab4-report/assets/147675962/f993ae7a-f438-4bb8-95f1-ae425427aa2f">
 
 Keys pressed: `j j`...(until I get to the line I need to fix) `e  i  l <delete> 2 <esc> <shift>; w q <enter>` \
