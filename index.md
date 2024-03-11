@@ -35,10 +35,10 @@ Keys pressed: `<up> <enter>` \
 Keys pressed: `git <space> add L <tab> <enter>` \
 Like the previous step, I use `<tab>` to autocomplete commands. Since I change `ListExamples.java`, `<tab>` autocompletes `ListExamples.java`. The `git add` command adds a change.\
 Keys pressed: `git <space> commit <space> -m <space> "fix java file"`\
-The `git commit` commits the change. `"fix java file"` is a message.\
+The `git commit` commits the change, save the changes to the local repository. `"fix java file"` is a message.\
 <img width="486" alt="截屏2024-02-24 下午4 30 26" src="https://github.com/qiwenxu697/cse15l-w7lab4-report/assets/147675962/21365183-0273-444b-af58-0b46b4643c4b">
 
 Keys pressed: `git <space> push <space> origin <space> main`\
-The `git push` command take commit and save it somewhere. `main` is the branch that get save.
+The `git push` command upload local repository content to a remote repository. `main` is the branch that get save. `main` is opional since I am already working on main.  
 <img width="488" alt="截屏2024-02-24 下午4 31 42" src="https://github.com/qiwenxu697/cse15l-w7lab4-report/assets/147675962/739ec04b-9412-41f5-a4ae-9749e37a1b02">
 
